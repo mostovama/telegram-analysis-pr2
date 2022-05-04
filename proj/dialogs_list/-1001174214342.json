@@ -1,0 +1,21 @@
+{
+    "id": -1001174214342,
+    "name": "маша в квадрате",
+    "type": "Channel",
+    "users": [
+        {
+            "user_id": 463034736,
+            "first_name": "маша",
+            "last_name": null,
+            "username": "mostovama",
+            "phone": "380663929032"
+        },
+        {
+            "user_id": 497519466,
+            "first_name": "братик🥺",
+            "last_name": null,
+            "username": "magdalenamaria",
+            "phone": "380660170424"
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "id": -1001388884636,
+    "name": "Центр САПС Чат",
+    "type": "Group",
+    "users": [
+        {
+            "user_id": 556110125,
+            "first_name": "Tonya",
+            "last_name": null,
+            "username": "tonya_sanch",
+            "phone": null
+        },
+        {
+            "user_id": 520341873,
+            "first_name": "Anna",
+            "last_name": "Verbytskaya",
+            "username": "annaverbytskayaya",
+            "phone": null
+        },
+        {
+            "user_id": 752130385,
+            "first_name": "Даринчік",
+            "last_name": null,
+            "username": "kharakternyzya",
+            "phone": null
+        },
+        {
+            "user_id": 821111850,
+            "first_name": "Nastya ❥",
+            "last_name": null,
+            "username": "romantic_nature",
+            "phone": null
+        },
+        {
+            "user_id": 736285263,
+            "first_name": "Nastia",
+            "last_name": null,
+            "username": "nastiademy",
+            "phone": null
+        },
+        {
+            "user_id": 61792181,
+            "first_name": "Kateryna",
+            "last_name": "Krizhik",
+            "username": "krizh_k",
+            "phone": "380932730663"
+        },
+        {
+            "user_id": 1176470272,
+            "first_name": "Мария",
+            "last_name": "Вычалковская",
+            "username": "mery_vy",
+            "phone": null
+        },
+        {
+            "user_id": 525337377,
+            "first_name": "Катря 🌿",
+            "last_name": null,
+            "username": "kat_tarasyuk",
+            "phone": null
+        },
+        {
+            "user_id": 586261959,
+            "first_name": "Sofi",
+            "last_name": "Min⛓🔪",
+            "username": "die_die_darknesslps",
+            "phone": null
+        },
+        {
+            "user_id": 345541699,
+            "first_name": "Онікс⚧",
+            "last_name": null,
+            "username": "cakeofbread",
+            "phone": null
+        },
+        {
+            "user_id": 479962907,
+            "first_name": "Nadiia Verbytska",
+            "last_name": null,
+            "username": "verbytska_n",
+            "phone": null
+        },
+        {
+            "user_id": 563573334,
+            "first_name": "Христина",
+            "last_name": null,
+            "username": "khrystyna_boyko",
+            "phone": null
+        },
+        {
+            "user_id": 681315413,
+            "first_name": "Kristik",
+            "last_name": null,
+            "username": "Palochnikkk",
+            "phone": null
+        },
+        {
+            "user_id": 319824665,
+            "first_name": "Дмитро",
+            "last_name": "Стахов",
+            "username": "Stakhov1",
+            "phone": "380665841245"
+        },
+        {
+            "user_id": 747001153,
+            "first_name": "Kate Korpalo",
+            "last_name": null,
+            "username": "KatrusiaKate",
+            "phone": null
+        },
+        {
+            "user_id": 451828951,
+            "first_name": "Софа",
+            "last_name": null,
+            "username": "rinnya",
+            "phone": null
+        },
+        {
+            "user_id": 202811757,
+            "first_name": "Holius",
+            "last_name": null,
+            "username": "Holius",
+            "phone": null
+        },
+        {
+            "user_id": 473756458,
+            "first_name": "ща(слива)",
+            "last_name": null,
+            "username": "schaslyva_slyva",
+            "phone": null
+        },
+        {
+            "user_id": 309877710,
+            "first_name": "Юлія Солонько",
+            "last_name": "Julia Solon’ko",
+            "username": "jul_i_co",
+            "phone": null
+        },
+        {
+            "user_id": 359137943,
+            "first_name": "Yuriy",
+            "last_name": "Mishchenko",
+            "username": "georgios_yurhi",
+            "phone": null
+        },
+        {
+            "user_id": 1610556588,
+            "first_name": "Олег",
+            "last_name": null,
+            "username": "Qrannik",
+            "phone": null
+        },
+        {
+            "user_id": 517713844,
+            "first_name": "Kate",
+            "last_name": null,
+            "username": "katee_m",
+            "phone": null
+        },
+        {
+            "user_id": 318799479,
+            "first_name": "Vlad",
+            "last_name": "Gazda",
+            "username": "perfect_strider",
+            "phone": null
+        },
+        {
+            "user_id": 617556078,
+            "first_name": "Katia",
+            "last_name": "Rostovska",
+            "username": "rostovska",
+            "phone": null
+        },
+        {
+            "user_id": 615292486,
+            "first_name": "Olya",
+            "last_name": null,
+            "username": "olkka567",
+            "phone": null
+        },
+        {
+            "user_id": 559734164,
+            "first_name": "Angelina Kavulych",
+            "last_name": null,
+            "username": "angelinakavulych",
+            "phone": null
+        },
+        {
+            "user_id": 534540445,
+            "first_name": "Ira",
+            "last_name": "Herchuk",
+            "username": "butterfly501",
+            "phone": null
+        },
+        {
+            "user_id": 497743203,
+            "first_name": "Helga",
+            "last_name": null,
+            "username": "HelgaJayBird",
+            "phone": null
+        },
+        {
+            "user_id": 921421779,
+            "first_name": "Кateryna",
+            "last_name": null,
+            "username": "senaryk",
+            "phone": "380976074070"
+        },
+        {
+            "user_id": 491633873,
+            "first_name": "Yanа",
+            "last_name": "Titarenko",
+            "username": "yana_titarenkooo",
+            "phone": null
+        },
+        {
+            "user_id": 445696063,
+            "first_name": "Mathilda",
+            "last_name": null,
+            "username": "Mathilda_9",
+            "phone": null
+        },
+        {
+            "user_id": 483315755,
+            "first_name": "Лера",
+            "last_name": null,
+            "username": "mihokuk",
+            "phone": null
+        },
+        {
+            "user_id": 399155296,
+            "first_name": "Darina",
+            "last_name": "Iva",
+            "username": "Dara_Iva",
+            "phone": null
+        },
+        {
+            "user_id": 878894529,
+            "first_name": "Ivan",
+            "last_name": "Olytskyi",
+            "username": "Ivan_Olytskyi",
+            "phone": null
+        },
+        {
+            "user_id": 229380954,
+            "first_name": "Timur",
+            "last_name": "Afanasiev",
+            "username": "simple_kojouster",
+            "phone": "380969472176"
+        },
+        {
+            "user_id": 344318083,
+            "first_name": "Valeria",
+            "last_name": "Isai",
+            "username": "valery_isai",
+            "phone": null
+        },
+        {
+            "user_id": 363193393,
+            "first_name": "Svitlanka",
+            "last_name": null,
+            "username": "fairyofshampoooo",
+            "phone": null
+        },
+        {
+            "user_id": 1355352997,
+            "first_name": "Mike",
+            "last_name": null,
+            "username": "stay_positive_be_yourself",
+            "phone": null
+        },
+        {
+            "user_id": 761743083,
+            "first_name": "Sonia",
+            "last_name": "Muzykant",
+            "username": "sonyamuzyk",
+            "phone": null
+        },
+        {
+            "user_id": 418825022,
+            "first_name": "Надийка",
+            "last_name": null,
+            "username": "whoisgrackle",
+            "phone": null
+        },
+        {
+            "user_id": 463034736,
+            "first_name": "маша",
+            "last_name": null,
+            "username": "mostovama",
+            "phone": "380663929032"
+        },
+        {
+            "user_id": 352987370,
+            "first_name": "Iryna",
+            "last_name": "Zborovska",
+            "username": "Jarynazboriv",
+            "phone": null
+        },
+        {
+            "user_id": 460869036,
+            "first_name": "элис",
+            "last_name": null,
+            "username": "aaaaablin",
+            "phone": null
+        },
+        {
+            "user_id": 351313873,
+            "first_name": "Маша",
+            "last_name": "Михайленко",
+            "username": "diatel00",
+            "phone": null
+        },
+        {
+            "user_id": 503061681,
+            "first_name": "Valeriia",
+            "last_name": "Denysenko",
+            "username": "valeriia_den",
+            "phone": null
+        },
+        {
+            "user_id": 617857726,
+            "first_name": "Masha",
+            "last_name": null,
+            "username": "daisyy_flowerr",
+            "phone": null
+        },
+        {
+            "user_id": 420942048,
+            "first_name": "Аліса",
+            "last_name": null,
+            "username": "l_alyssa",
+            "phone": null
+        },
+        {
+            "user_id": 594925841,
+            "first_name": "Masha",
+            "last_name": null,
+            "username": "mashabdd",
+            "phone": null
+        },
+        {
+            "user_id": 459327759,
+            "first_name": "ꀗꁲ꒒ꂑꌚꁲ",
+            "last_name": "ꄞꂦꌚꋖꈼꌅ",
+            "username": "kalisa_foster",
+            "phone": null
+        }
+    ]
+}

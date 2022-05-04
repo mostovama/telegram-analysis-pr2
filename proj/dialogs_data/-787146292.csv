@@ -1,0 +1,280 @@
+,id,date,from_id,to_id,fwd_from,message,type,duration
+0,858491,2022-02-15 16:05:39+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Так, звичайно. Головне, щоб викладач не чекав досить довго на наступного студента.",text,
+1,858490,2022-02-15 16:05:16+00:00,PeerUser(user_id=540893531),PeerChat(chat_id=787146292),,Тоді буде хоча б приблизна прив‘язка до часу своєї відповіді,text,
+2,858489,2022-02-15 16:04:29+00:00,PeerUser(user_id=540893531),PeerChat(chat_id=787146292),,А ми можемо на колоквіум створити чергу та розподілитись на дві групи на дві пари?,text,
+3,858488,2022-02-15 15:57:05+00:00,PeerUser(user_id=564960030),PeerChat(chat_id=787146292),,Дякуємо,text,
+4,858487,2022-02-15 15:48:27+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Наступного разу в обох групах колоквіум (усний, в Zoom)  на 15.00. Питання до колоквіуму є на distedu і в чаті.",text,
+5,858486,2022-02-15 15:23:15+00:00,PeerUser(user_id=470773767),PeerChat(chat_id=787146292),,,text,
+6,858485,2022-02-15 15:21:56+00:00,PeerUser(user_id=540893531),PeerChat(chat_id=787146292),,дякую🙂,text,
+7,858484,2022-02-15 15:21:44+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,Так,text,
+8,858483,2022-02-15 15:21:28+00:00,PeerUser(user_id=540893531),PeerChat(chat_id=787146292),,"Вітаю)
+а відповіді автоматично після завершення часу відкриваються?",text,
+9,858482,2022-02-15 15:18:50+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,Та я вже згадав),text,
+10,858481,2022-02-15 15:18:37+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,Я про це говорив на парах.,text,
+11,858480,2022-02-15 15:18:23+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,"Добре, дякую!",text,
+12,858479,2022-02-15 15:18:12+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Якщо у десятковому вигляді і правильно, то оцінка буде автоматично. Якщо запишите дробом, то я змушений буду переглянути чи правильна відповідь.",text,
+13,858478,2022-02-15 15:15:41+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,"Доброго дня! У мене виникло питання: якщо у відповіді дріб, то його записувати як дріб чи треба обрахувати (тобто виконати дію ділення одного числа на інше)?",text,
+14,858477,2022-02-15 15:12:08+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Якщо є бажання можете після закінчення контрольної приєднуватись за посиланням вище на16.20 (4.20 PM), прокоментую. Але вже бачу помилки через неуважність!",text,
+15,858468,2022-02-15 14:48:08+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Я проводив консультацію і говорив про деякі особливості в distedu. Якщо зразу видно непрокомпільований текст, то почекайте трохи або перезавантажте сторінку і з'являться математичні формули. Часу у вас досить.",text,
+16,858419,2022-02-15 12:48:13+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Добрий день! Нагадую, що К.Р. 1 розпочнеться о 16:30!",text,
+17,858418,2022-02-15 12:47:19+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Hi there,
+
+Юрій Захарійченко is inviting you to a scheduled Zoom meeting.
+
+Time: вт, 15 лютого 2022 р., 15:00 Africa/Cairo(GMT+2:00)
+
+Join from a PC, Mac, iPad, iPhone or Android device:
+
+    Please click this URL to start or join. https://ukma-edu-ua.zoom.us/j/97552636095
+    Or, go to https://zoom.us/join and enter meeting ID: 975 5263 6095 and password: 251456",text,
+18,857536,2022-02-14 14:02:43+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Feb 15, 2022 04:20 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82865299059?pwd=eEd6eXludXlyeXhZZnN3dURSSlUvQT09
+
+Meeting ID: 828 6529 9059
+Passcode: hFtL3Q",text,
+19,855146,2022-02-08 15:55:26+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,👍,text,
+20,855145,2022-02-08 15:54:31+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"ДЗ - підготуватись до КР, повторити ДР1-ДР4 і варіанти підготовки до КР в ДР4. ДР5 В5.1",text,
+21,855136,2022-02-08 14:20:29+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Група 1, давайте почнемо о 16:35!",text,
+22,855110,2022-02-08 12:24:22+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Hi there,
+
+Юрій Захарійченко is inviting you to a scheduled Zoom meeting.
+
+Time: вт, 8 лютого 2022 р., 15:00 Africa/Cairo(GMT+2:00)
+
+Join from a PC, Mac, iPad, iPhone or Android device:
+
+    Please click this URL to start or join. https://ukma-edu-ua.zoom.us/j/91237605674
+    Or, go to https://zoom.us/join and enter meeting ID: 912 3760 5674 and password: 966981",text,
+23,855109,2022-02-08 12:23:38+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,ДР5 рівняння вищих порядків_2017-2018.pdf,text,
+24,854903,2022-02-07 19:36:26+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Feb 8, 2022 04:30 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82362189244?pwd=OG9MdmNsRGkxZ3hxMHdnMzV6QUZRQT09
+
+Meeting ID: 823 6218 9244
+Passcode: U6CUZy",text,
+25,851874,2022-02-01 15:22:39+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,Так. І можете підключатися до Юрія  Олексійовича. Він запрошував.,text,
+26,851873,2022-02-01 15:11:15+00:00,PeerUser(user_id=564960030),PeerChat(chat_id=787146292),,Можливо краще перенести пару?,text,
+27,851872,2022-02-01 14:20:24+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,"Добре, дякуємо!",text,
+28,851871,2022-02-01 14:19:17+00:00,PeerUser(user_id=564960030),PeerChat(chat_id=787146292),,"Добре, дякуємо за попередження!",text,
+29,851870,2022-02-01 14:18:16+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,Добрий день. У мене теж на жаль заняття може розпочатися тільки з  17.00,text,
+30,851852,2022-02-01 12:47:16+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,"Все одно не маю можливості прийти і буду дивитись запис,  тому добре,  не забудьте його зробити !",text,
+31,851851,2022-02-01 12:45:00+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,Дякуємо!,text,
+32,851850,2022-02-01 12:44:59+00:00,PeerUser(user_id=497713871),PeerChat(chat_id=787146292),,"Доброго дня!
+Добре, дякую що попередили",text,
+33,851849,2022-02-01 12:44:56+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,Ми не проти,text,
+34,851848,2022-02-01 12:44:54+00:00,PeerUser(user_id=564960030),PeerChat(chat_id=787146292),,"Без проблем, дякуємо",text,
+35,851847,2022-02-01 12:44:14+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Добрий день!
+Перепрошую, давайте розпочнемо лекцію о 15:10!",text,
+36,851846,2022-02-01 12:41:54+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Hi there,
+
+Юрій Захарійченко is inviting you to a scheduled Zoom meeting.
+
+Time: вт, 1 лютого 2022 р., 15:00 Africa/Cairo(GMT+2:00)
+
+Join from a PC, Mac, iPad, iPhone or Android device:
+
+    Please click this URL to start or join. https://ukma-edu-ua.zoom.us/j/96215403967
+    Or, go to https://zoom.us/join and enter meeting ID: 962 1540 3967 and password: 761690",text,
+37,851845,2022-02-01 12:41:06+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,ДР4 рівняння в повних диф._2017-2018.pdf,text,
+38,851844,2022-02-01 12:40:49+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"ДР3 лінійні д.р., р. Бернулі_2017-2018.pdf",text,
+39,851843,2022-02-01 12:39:37+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"ДР2 др з відокр. змін., однор._2017-2018.pdf",text,
+40,851842,2022-02-01 12:39:18+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,ДР1 фазовий портрет_2017-2018.pdf,text,
+41,851841,2022-02-01 12:38:58+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,Колокв 1. ДР 21-22.pdf,text,
+42,851613,2022-01-31 17:55:43+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Feb 1, 2022 04:40 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82084339763?pwd=ZkVSMEw1TUpqYUhyZWZCbjRybmNvQT09
+
+Meeting ID: 820 8433 9763
+Passcode: V7KMqW",text,
+43,849583,2022-01-26 16:16:10+00:00,PeerUser(user_id=855734991),PeerChat(chat_id=787146292),,🥵,sticker,
+44,849349,2022-01-26 13:19:50+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,👋,sticker,
+45,849348,2022-01-26 13:19:30+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,☹,sticker,
+46,849347,2022-01-26 13:18:59+00:00,PeerUser(user_id=716096216),PeerChat(chat_id=787146292),,,video,6
+47,849346,2022-01-26 13:18:38+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,🍻,sticker,
+48,849345,2022-01-26 13:17:43+00:00,PeerUser(user_id=633201121),PeerChat(chat_id=787146292),,страшно!,text,
+49,849343,2022-01-26 13:13:19+00:00,PeerUser(user_id=629737234),PeerChat(chat_id=787146292),,😁,sticker,
+50,849342,2022-01-26 13:13:18+00:00,PeerUser(user_id=371105962),PeerChat(chat_id=787146292),,,video,16
+51,849341,2022-01-26 13:13:14+00:00,PeerUser(user_id=1610556588),PeerChat(chat_id=787146292),,😂,sticker,
+52,849340,2022-01-26 13:12:52+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,🤙,sticker,
+53,849339,2022-01-26 13:12:34+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,😂😂😂,text,
+54,849338,2022-01-26 13:12:27+00:00,PeerUser(user_id=497713871),PeerChat(chat_id=787146292),,😂,sticker,
+55,849337,2022-01-26 13:12:03+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,Небезпечна наша професія!,text,
+56,849336,2022-01-26 13:11:48+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),"MessageFwdHeader(date=datetime.datetime(2022, 1, 26, 12, 6, 20, tzinfo=datetime.timezone.utc), imported=False, from_id=PeerUser(user_id=309242431), from_name=None, channel_post=None, post_author=None, saved_from_peer=None, saved_from_msg_id=None, psa_type=None)",,photo,
+57,848982,2022-01-25 15:57:56+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"ДЗ - А3 1.3),  А3 2.1) В3 1.3) В3 2.1) В3 3.3",text,
+58,848913,2022-01-25 12:48:51+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"ДР3 лінійні д.р., р. Бернулі_2017-2018.pdf",text,
+59,848912,2022-01-25 12:48:24+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Юрій Захарійченко is inviting you to a scheduled Zoom meeting. 
+ 
+Topic: Юрій Захарійченко's Zoom Meeting 
+Time: Jan 25, 2022 03:00 PM Cairo 
+ 
+Join Zoom Meeting 
+https://ukma-edu-ua.zoom.us/j/97559858476 
+ 
+Meeting ID: 975 5985 8476 
+Passcode: 378308 
+One tap mobile 
++13126266799,,97559858476#,,,,*378308# US (Chicago) 
++13462487799,,97559858476#,,,,*378308# US (Houston) 
+ 
+Dial by your location 
+        +1 312 626 6799 US (Chicago) 
+        +1 346 248 7799 US (Houston) 
+        +1 669 900 6833 US (San Jose) 
+        +1 929 205 6099 US (New York) 
+        +1 253 215 8782 US (Tacoma) 
+        +1 301 715 8592 US (Washington DC) 
+Meeting ID: 975 5985 8476 
+Passcode: 378308 
+Find your local number: https://ukma-edu-ua.zoom.us/u/adFBZ9Rqpc",text,
+60,848097,2022-01-24 13:10:25+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Jan 25, 2022 04:30 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/83861366257?pwd=bE52WndUdGd1ZnZIYjQ4T295R3h6Zz09
+
+Meeting ID: 838 6136 6257
+Passcode: 8f0z7C",text,
+61,846333,2022-01-21 13:03:26+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"ДЗ гр2: В2 1(всі), В2.2 3), В2.3 1)-3) В2.4  1)    В2.5 2)",text,
+62,846133,2022-01-21 09:24:05+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Юрій Захарійченко is inviting you to a scheduled Zoom meeting. 
+ 
+Topic: Юрій Захарійченко's Zoom Meeting 
+Time: Jan 21, 2022 11:40 AM Cairo 
+ 
+Join Zoom Meeting 
+https://ukma-edu-ua.zoom.us/j/96295864713 
+ 
+Meeting ID: 962 9586 4713 
+Passcode: 687279 
+One tap mobile 
++13462487799,,96295864713#,,,,*687279# US (Houston) 
++16699006833,,96295864713#,,,,*687279# US (San Jose) 
+ 
+Dial by your location 
+        +1 346 248 7799 US (Houston) 
+        +1 669 900 6833 US (San Jose) 
+        +1 929 205 6099 US (New York) 
+        +1 253 215 8782 US (Tacoma) 
+        +1 301 715 8592 US (Washington DC) 
+        +1 312 626 6799 US (Chicago) 
+Meeting ID: 962 9586 4713 
+Passcode: 687279 
+Find your local number: https://ukma-edu-ua.zoom.us/u/aejwxr97FA",text,
+63,846049,2022-01-20 20:36:58+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Jan 21, 2022 01:30 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/88055475868?pwd=QXlpTGxOb0hqV0FKSWtHOTRicUZNdz09
+
+Meeting ID: 880 5547 5868
+Passcode: 1RPX5A",text,
+64,844867,2022-01-18 16:51:05+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"ДЗ: А2 1. 1), 2) А2 3. 1) -4)",text,
+65,844790,2022-01-18 14:34:00+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Jan 18, 2022 04:35 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/86518048888?pwd=WG9zclhjT0ZGZm90YU5LcENQMForUT09
+
+Meeting ID: 865 1804 8888
+Passcode: CAys23",text,
+66,844788,2022-01-18 14:26:59+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"ДР2 др з відокр. змін., однор._2017-2018.pdf",text,
+67,844737,2022-01-18 12:43:18+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Юрій Захарійченко is inviting you to a scheduled Zoom meeting. 
+ 
+Topic: Юрій Захарійченко's Zoom Meeting 
+Time: Jan 18, 2022 03:00 PM Cairo 
+ 
+Join Zoom Meeting 
+https://ukma-edu-ua.zoom.us/j/91070248813 
+ 
+Meeting ID: 910 7024 8813 
+Passcode: 398048 
+One tap mobile 
++19292056099,,91070248813#,,,,*398048# US (New York) 
++12532158782,,91070248813#,,,,*398048# US (Tacoma) 
+ 
+Dial by your location 
+        +1 929 205 6099 US (New York) 
+        +1 253 215 8782 US (Tacoma) 
+        +1 301 715 8592 US (Washington DC) 
+        +1 312 626 6799 US (Chicago) 
+        +1 346 248 7799 US (Houston) 
+        +1 669 900 6833 US (San Jose) 
+Meeting ID: 910 7024 8813 
+Passcode: 398048 
+Find your local number: https://ukma-edu-ua.zoom.us/u/a3hHBBSIm",text,
+68,844334,2022-01-17 13:32:18+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Jan 17, 2022 04:30 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/81329189919?pwd=SFN0dDNsWDlEQ3B1WENNdmZkWDh5UT09
+
+Meeting ID: 813 2918 9919
+Passcode: Ef7ukv",text,
+69,842944,2022-01-11 18:26:10+00:00,PeerUser(user_id=332402450),PeerChat(chat_id=787146292),,Щиро дякуємо!,text,
+70,842918,2022-01-11 17:06:32+00:00,PeerUser(user_id=564960030),PeerChat(chat_id=787146292),,Дякуємо!!,text,
+71,842917,2022-01-11 17:06:18+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"На distedu записи сьогоднішніх практичних групи 1. (з поміткою ПМ, без такої помітки - минулорічні практичні)",text,
+72,842898,2022-01-11 16:07:42+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"2гр. ДЗ В1.3 1) 4), В1.4  1) 2) 6) В1.5, 6, 7. 1) 2)",text,
+73,842896,2022-01-11 15:58:51+00:00,PeerUser(user_id=459802765),PeerChat(chat_id=787146292),,"https://ukmaedu-my.sharepoint.com/:f:/g/personal/yaryna_kuzomko_ukma_edu_ua/EmUXDABiVcRPuXroM3Bg5KsB9yBvy3aKnE0QKSZpWcWVeQ?e=2feGKe
+
+
+Записи лекцій та практик 1 групи будуть за цим посиланням",text,
+74,842745,2022-01-11 13:10:34+00:00,PeerUser(user_id=470773767),PeerChat(chat_id=787146292),,,text,
+75,842666,2022-01-11 12:55:21+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,"Юрій Захарійченко is inviting you to a scheduled Zoom meeting. 
+ 
+Topic: Юрій Захарійченко's Zoom Meeting 
+Time: Jan 11, 2022 03:00 PM Cairo 
+ 
+Join Zoom Meeting 
+https://ukma-edu-ua.zoom.us/j/99722970467 
+ 
+Meeting ID: 997 2297 0467 
+Passcode: 636416 
+One tap mobile 
++13017158592,,99722970467#,,,,*636416# US (Washington DC) 
++13126266799,,99722970467#,,,,*636416# US (Chicago) 
+ 
+Dial by your location 
+        +1 301 715 8592 US (Washington DC) 
+        +1 312 626 6799 US (Chicago) 
+        +1 346 248 7799 US (Houston) 
+        +1 669 900 6833 US (San Jose) 
+        +1 929 205 6099 US (New York) 
+        +1 253 215 8782 US (Tacoma) 
+Meeting ID: 997 2297 0467 
+Passcode: 636416 
+Find your local number: https://ukma-edu-ua.zoom.us/u/adpmmhmNIs",text,
+76,842659,2022-01-11 12:51:16+00:00,PeerUser(user_id=1142974378),PeerChat(chat_id=787146292),,"гр.1 Юрій Митник is inviting you to a scheduled Zoom meeting.
+
+Topic: Юрій Митник's Zoom Meeting
+Time: Jan 11, 2022 04:30 PM Helsinki
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/86150784657?pwd=ejdjZzQ4VUFlb2NiMi9wY3MwZGJ1QT09
+
+Meeting ID: 861 5078 4657
+Passcode: m9HA9b",text,
+77,842658,2022-01-11 12:49:31+00:00,PeerUser(user_id=459802765),PeerChat(chat_id=787146292),,"добрий день!
+Ви можете, будь ласка, скинути нам посилання на пару?",text,
+78,842651,2022-01-11 12:28:12+00:00,PeerUser(user_id=1234789597),PeerChat(chat_id=787146292),,ДР1 фазовий портрет_2017-2018.pdf,text,
+79,842481,2022-01-10 20:17:30+00:00,PeerUser(user_id=387335969),PeerChat(chat_id=787146292),,,photo,
+80,842463,2022-01-10 20:10:30+00:00,PeerUser(user_id=459802765),PeerChat(chat_id=787146292),,,text,

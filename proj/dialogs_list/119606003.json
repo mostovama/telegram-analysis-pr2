@@ -1,0 +1,14 @@
+{
+    "id": 119606003,
+    "name": "VK Music Bot",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 119606003,
+            "first_name": "VK Music Bot",
+            "last_name": null,
+            "username": "vkmusic_bot",
+            "phone": null
+        }
+    ]
+}

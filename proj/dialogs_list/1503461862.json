@@ -1,0 +1,14 @@
+{
+    "id": 1503461862,
+    "name": "Бот Школы Тильды",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 1503461862,
+            "first_name": "Бот Школы Тильды",
+            "last_name": null,
+            "username": "TildaSchoolBot",
+            "phone": null
+        }
+    ]
+}

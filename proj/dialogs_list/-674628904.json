@@ -1,0 +1,35 @@
+{
+    "id": -674628904,
+    "name": "Настолки",
+    "type": "Group",
+    "users": [
+        {
+            "user_id": 463034736,
+            "first_name": "маша",
+            "last_name": null,
+            "username": "mostovama",
+            "phone": "380663929032"
+        },
+        {
+            "user_id": 383661568,
+            "first_name": "Андрей",
+            "last_name": null,
+            "username": "ondrey_ondreevich",
+            "phone": "380983170142"
+        },
+        {
+            "user_id": 337109408,
+            "first_name": "Nastya",
+            "last_name": null,
+            "username": "nastya_npo",
+            "phone": null
+        },
+        {
+            "user_id": 428330492,
+            "first_name": "наум☀️",
+            "last_name": null,
+            "username": "Naum_zak",
+            "phone": "380688723422"
+        }
+    ]
+}

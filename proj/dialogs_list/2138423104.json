@@ -1,0 +1,14 @@
+{
+    "id": 2138423104,
+    "name": "Инспектор Лама",
+    "type": "Private dialog",
+    "users": [
+        {
+            "user_id": 2138423104,
+            "first_name": "Инспектор Лама",
+            "last_name": null,
+            "username": "lamalovesubot",
+            "phone": null
+        }
+    ]
+}

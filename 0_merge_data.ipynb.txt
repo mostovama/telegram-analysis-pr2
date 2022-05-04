@@ -1,0 +1,236 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "09b4e301",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os\n",
+    "import pandas as pd\n",
+    "import glob"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d076df7c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "DIALOGS_DATA_PATH = \"../data/dialogs\"\n",
+    "DIALOGS_META_DATA_PATH = \"../data/dialogs_meta\"\n",
+    "\n",
+    "MERGED_DATA_PATH = \"../data/merged_data\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "65a13565",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "!ls ../data/"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6d0eddab",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dialogs_data_files = glob.glob(f\"{DIALOGS_DATA_PATH}/*.csv\")\n",
+    "dialogs_meta_data_files = glob.glob(f\"{DIALOGS_META_DATA_PATH}/*.json\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "78cc73b6",
+   "metadata": {},
+   "source": [
+    "## merging all dialogs_data (csv files) into one"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4d582c3b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_array = []\n",
+    "\n",
+    "for d in dialogs_data_files:\n",
+    "    local_df = pd.read_csv(d)\n",
+    "    local_df[\"dialog_id\"] = os.path.basename(d).split(\".\")[0]\n",
+    "    \n",
+    "    df_array.append(local_df)\n",
+    "    \n",
+    "df = pd.concat(df_array, ignore_index=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "96e470a8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "if not os.path.isdir(MERGED_DATA_PATH):\n",
+    "    os.mkdir(MERGED_DATA_PATH)\n",
+    "\n",
+    "if \"Unnamed: 0\" in df:\n",
+    "    df = df.drop([\"Unnamed: 0\"], axis=True)\n",
+    "    \n",
+    "df.to_csv(f\"{MERGED_DATA_PATH}/dialogs_data_all.csv\", index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "16776850",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4672e8ce",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.head(10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d1bd96f3",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "min(df[\"date\"]),max(df[\"date\"])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2a1aafab",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.groupby([\"type\"])[\"type\"].count()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "66a677a9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df.groupby([\"type\"])[\"duration\"].sum()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e24460df",
+   "metadata": {},
+   "source": [
+    "## merging all dialogs_meta_data (json files) into one"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3cecdc78",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_array = []\n",
+    "\n",
+    "for d in dialogs_meta_data_files:\n",
+    "    local_df = pd.read_json(d)\n",
+    "    local_df = local_df.rename({'id': 'dialog_id'}, axis=1)\n",
+    "    df_array.append(local_df)\n",
+    "    \n",
+    "df_meta = pd.concat(df_array, ignore_index=True)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6b458ce5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_meta.to_csv(f\"{MERGED_DATA_PATH}/dialogs_users_all.csv\", index=False)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "313b23f0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_meta.shape"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ef6f51b9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_meta.head(10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "186f2f67",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "df_meta.groupby([\"type\"])[\"type\"].count()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "36bc5268",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

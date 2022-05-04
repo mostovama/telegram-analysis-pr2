@@ -1,0 +1,84 @@
+{
+    "id": -535772775,
+    "name": "прога з бубликом",
+    "type": "Group",
+    "users": [
+        {
+            "user_id": 1379932460,
+            "first_name": "Petro.maliuk@wze_w_drova",
+            "last_name": null,
+            "username": "Petro_king_of_tsygans",
+            "phone": "380983364743"
+        },
+        {
+            "user_id": 855734991,
+            "first_name": "Богдан",
+            "last_name": "Зверьок",
+            "username": "el_beasto",
+            "phone": null
+        },
+        {
+            "user_id": 461536538,
+            "first_name": "Арсен",
+            "last_name": "Дойничко",
+            "username": "arsen_doinychko",
+            "phone": null
+        },
+        {
+            "user_id": 277741288,
+            "first_name": "yyuuuurrrrrrraaaaaa",
+            "last_name": null,
+            "username": "antianti06",
+            "phone": null
+        },
+        {
+            "user_id": 455550602,
+            "first_name": "Андрей",
+            "last_name": null,
+            "username": "Andrey_Khoptiy",
+            "phone": null
+        },
+        {
+            "user_id": 656312228,
+            "first_name": "Vlaad",
+            "last_name": null,
+            "username": "vladkoval03",
+            "phone": "380950450543"
+        },
+        {
+            "user_id": 463034736,
+            "first_name": "маша",
+            "last_name": null,
+            "username": "mostovama",
+            "phone": "380663929032"
+        },
+        {
+            "user_id": 336314102,
+            "first_name": "Liza Andrych",
+            "last_name": null,
+            "username": "liza_andrych",
+            "phone": null
+        },
+        {
+            "user_id": 332402450,
+            "first_name": "Александр",
+            "last_name": "хіхі",
+            "username": "just_me_alex",
+            "phone": "380964966800"
+        },
+        {
+            "user_id": 629737234,
+            "first_name": "Egor",
+            "last_name": "Bolt",
+            "username": "bolotovyehor",
+            "phone": null
+        },
+        {
+            "user_id": 687038668,
+            "first_name": "Aleksandr",
+            "last_name": "Averkin",
+            "username": "averkin_aleksandrr",
+            "phone": null
+        }
+    ]
+}
