@@ -9,8 +9,7 @@
 
 
 # INTRODUCTION
-Here is an analysis of my Telegram messages. The whole way 
-
+Here is an analysis of my Telegram messages I made on Programming-2 course in Kyiv-Mohyla Academy. This repository contains files I needed to download all the data and Jupyter Notebook files where I tested and analyzed data. In this project I found my most frequent words, did sentiment analysis of messages etc. This is going to be updated.
 
 
 ## REQUIREMENTS
